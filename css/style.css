@@ -30,3 +30,18 @@
     height: 15rem;
     background-size: cover;
 }
+
+.logo-text {
+    font-size: 2rem;
+}
+
+.top-right-text {
+    font-size: 1.5rem;
+}
+
+.big-bg {
+    background: url("../img/truck-3.jpg") center center;
+    width: 100%!important;
+    height: 30rem!important;
+    background-size: cover;
+}
