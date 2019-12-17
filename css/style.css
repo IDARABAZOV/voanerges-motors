@@ -46,7 +46,7 @@ body {
 }
 
 .big-bg {
-    background: url("../img/truck-3.jpg") center center;
+    background: url("../img/truck-3.jpg") center center no-repeat;
     width: 100%!important;
     height: 30rem!important;
     background-size: cover;
@@ -64,4 +64,8 @@ body {
 
 .contacts a {
     font-size: 1.2rem;
+}
+
+a:hover {
+    text-decoration: none;
 }
