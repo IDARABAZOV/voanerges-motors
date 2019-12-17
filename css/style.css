@@ -1,3 +1,7 @@
+body {
+    font-family: "Open Sans", sans-serif!important;
+}
+
 .contacts .col-6 p:last-of-type {
     font-size: .76rem;
 }
@@ -33,10 +37,12 @@
 
 .logo-text {
     font-size: 2rem;
+    color: rgb(219, 11, 32);
 }
 
 .top-right-text {
     font-size: 1.5rem;
+    color: rgb(219, 11, 32);
 }
 
 .big-bg {
@@ -44,4 +50,14 @@
     width: 100%!important;
     height: 30rem!important;
     background-size: cover;
+}
+
+.write-us-btn {
+    width: 16rem!important;
+    background: rgb(219, 11, 32)!important;
+    color: white;
+}
+
+.my-red-text {
+    color: rgb(219, 11, 32);
 }
