@@ -61,3 +61,7 @@ body {
 .my-red-text {
     color: rgb(219, 11, 32);
 }
+
+.contacts a {
+    font-size: 1.2rem;
+}
