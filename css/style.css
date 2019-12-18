@@ -49,7 +49,7 @@ body {
     background: url("../img/truck-5.jpg") center center no-repeat;
     width: 100%!important;
     height: 30rem!important;
-    background-size: cover;
+    background-size: contain;
 }
 
 .write-us-btn {
