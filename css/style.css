@@ -48,8 +48,8 @@ body {
 .big-bg {
     background: url("../img/truck-5.jpg") center center no-repeat;
     width: 100%!important;
-    height: 30rem!important;
-    background-size: contain;
+    height: 60rem!important;
+    background-size: cover;
 }
 
 .write-us-btn {
