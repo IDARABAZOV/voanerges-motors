@@ -38,7 +38,6 @@ body {
 .logo-text {
     font-size: 2.3rem;
     color: rgb(219, 11, 32);
-    font-weight: 900;
 }
 
 .top-right-text {
@@ -49,7 +48,7 @@ body {
 .big-bg {
     background: url("../img/truck-5.jpg") center center no-repeat;
     width: 100%!important;
-    height: 60rem!important;
+    height: 80vh!important;
     background-size: cover;
 }
 
